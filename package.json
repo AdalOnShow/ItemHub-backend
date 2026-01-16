@@ -2,12 +2,16 @@
   "name": "itemhub-backend",
   "version": "1.0.0",
   "description": "Express backend for ItemHub book management",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
-  "keywords": ["express", "books", "api"],
+  "keywords": [
+    "express",
+    "books",
+    "api"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
