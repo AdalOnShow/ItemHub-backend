@@ -18,7 +18,7 @@ let books = [
       "A Handbook of Agile Software Craftsmanship. Learn how to write code that is easy to read and maintain.",
     price: 34.99,
     coverImage:
-      "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=400",
+      "https://ia801705.us.archive.org/view_archive.php?archive=/29/items/l_covers_0008/l_covers_0008_74.zip&file=0008740839-L.jpg",
   },
   {
     id: "2",
@@ -28,7 +28,7 @@ let books = [
       "Your journey to mastery. One of the most significant books in software development.",
     price: 39.99,
     coverImage:
-      "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=400",
+      "https://covers.openlibrary.org/b/id/15111148-L.jpg",
   },
   {
     id: "3",
@@ -38,7 +38,7 @@ let books = [
       "Uncovering the beautiful, elegant, highly expressive, and enlightened parts of JavaScript.",
     price: 24.99,
     coverImage:
-      "https://images.unsplash.com/photo-1587620962725-abab7fe55159?w=400",
+      "https://covers.openlibrary.org/b/id/9245523-L.jpg",
   },
   {
     id: "4",
@@ -48,7 +48,7 @@ let books = [
       "A modern introduction to programming, focusing on JavaScript and the web.",
     price: 29.99,
     coverImage:
-      "https://images.unsplash.com/photo-1544256718-3bcf237f3974?w=400",
+      "https://covers.openlibrary.org/b/id/12995869-L.jpg",
   },
   {
     id: "5",
@@ -58,7 +58,7 @@ let books = [
       "Elements of Reusable Object-Oriented Software. The foundation for modern software design.",
     price: 49.99,
     coverImage:
-      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400",
+      "https://covers.openlibrary.org/b/id/5950339-L.jpg",
   },
   {
     id: "6",
@@ -68,7 +68,7 @@ let books = [
       "Improving the Design of Existing Code. A classic guide to improving software design.",
     price: 44.99,
     coverImage:
-      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400",
+      "https://covers.openlibrary.org/b/id/10527062-L.jpg",
   },
   {
     id: "7",
@@ -78,7 +78,7 @@ let books = [
       "An in-depth guide to the core mechanisms of the JavaScript language.",
     price: 19.99,
     coverImage:
-      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400",
+      "https://covers.openlibrary.org/b/id/10579162-L.jpg",
   },
   {
     id: "8",
@@ -88,7 +88,7 @@ let books = [
       "Essays on Software Engineering. A timeless classic on managing complex projects.",
     price: 32.99,
     coverImage:
-      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400",
+      "https://covers.openlibrary.org/b/id/10653425-L.jpg",
   },
   {
     id: "9",
@@ -98,7 +98,7 @@ let books = [
       "A comprehensive guide to algorithms, covering a wide range of topics in depth.",
     price: 89.99,
     coverImage:
-      "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=400",
+      "https://covers.openlibrary.org/b/id/6709987-L.jpg",
   },
   {
     id: "10",
